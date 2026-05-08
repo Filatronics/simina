@@ -1,4 +1,4 @@
 # simina
 ## text
 * ceva1
-  [google](url)
+  [google](http://google.com)
